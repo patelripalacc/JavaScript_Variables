@@ -5,12 +5,12 @@ console.log(
 
 // Exercise 1
 let firstName;
-let lastName = "Patel";
+let lastName = "ripalkumar";
 var age = 34
 
 // Exercise 2
-firstName = "ripalkumar";
-lastName = "patel";
+firstName = "Ripalkumar";
+lastName = "Patel";
 age = 35;
 
 console.log(`My Name is ${firstName} ${lastName}.I am ${age} year old.`)
