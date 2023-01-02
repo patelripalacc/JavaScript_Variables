@@ -30,7 +30,7 @@ let stock = 0;
 let inStock = false;
 let selectedSize = "M";
 
-console.log(`the Track-pant in size ${selectedSize} is $${price} and has a ${salePercentage}% sale with ${inStock}. `)
+console.log(`the Track-pant in size ${selectedSize} is $${price} and has a ${salePercentage}% sale and in stock is ${stock}. `)
 
 // Exercise 5
 let title = "Name of the Wind";
