@@ -18,7 +18,7 @@ console.log(`My Name is ${firstName} ${lastName}.I am ${age} year old.`)
 // Exercise 3
 let language = "JavaScript";
 let createdYear = 1995;
-let isCaseSensitive = "true";
+let isCaseSensitive = true;
 
 console.log(`${language} was first release on year ${createdYear}.`)
 
