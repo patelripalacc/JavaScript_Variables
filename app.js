@@ -4,7 +4,7 @@ console.log(
 );
 
 // Exercise 1
-let firstName = "Ripalkumar";
+let firstName;
 let lastName = "Patel";
 var age = 34
 
